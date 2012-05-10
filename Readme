@@ -1,0 +1,6 @@
+Javascript sudoku solver.
+
+This is a port of the Sudoku solver written in Python by Peter Norvik.
+See: http://norvig.com/sudoku.html
+
+This is designed to be run under Node.js
