@@ -9,6 +9,7 @@ var argtoarray = function(arg) {
 	return result;
 }
 
+// My implementation of the Range function
 exports.range = function() {
 	if (arguments.length === 0) return [];
 
