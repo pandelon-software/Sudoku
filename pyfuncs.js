@@ -9,7 +9,8 @@ var argtoarray = function(arg) {
 	return result;
 }
 
-// My implementation of the Range function
+// This implementation of the Range function is based on a combination of reading the documentation
+// and testing the function in Idle using various inputs. Read Python documentation for usage.
 exports.range = function() {
 	if (arguments.length === 0) return [];
 
